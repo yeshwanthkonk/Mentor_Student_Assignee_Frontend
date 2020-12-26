@@ -1,4 +1,4 @@
-var host = "http://localhost:3000/";
+var host = "https://mentor-student-assignee-yesh.herokuapp.com/";
 
 async function create_mentor(){
     try{
